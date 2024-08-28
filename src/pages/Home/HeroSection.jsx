@@ -11,13 +11,12 @@ export default function HeroSection() {
           </h1>
           <p className="hero--section-description">
             I'm a Computer Science major at UTSA with a passion for crafting beautiful and responsive user interfaces. <br />
-            Eager to turn complex problems into simple, elegant solutions through code.
           </p>
         </div>
         <button className="btn btn-primary">Let's Connect</button>
       </div>
       <div className="hero--section--img">
-        <img src="" alt="Hero Section" />
+        <img src="./img/updatedpic.PNG" alt="Hero Section" />
       </div>
     </section>
   );
